@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nestjs/jwt": "^8.0.0",
+    "@nestjs/mongoose": "^9.0.2",
+    "@nestjs/serve-static": "^2.2.2",
+    "@types/bcrypt": "^5.0.0",
+    "@types/multer": "^1.4.7",
+    "@types/uuid": "^8.3.4",
+    "bcrypt": "^5.0.1",
+    "mongoose": "^6.2.1",
+    "passport-jwt": "^4.0.0"
+  }
+}
